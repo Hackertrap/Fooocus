@@ -4,17 +4,22 @@
 
 # Fooocus
 
-[>>> Click Here to Install Fooocus <<<](#download)
+[>>> Tekan di sini untuk menginstal Foocus <<<](#download)
 
-Fooocus is an image generating software (based on [Gradio](https://www.gradio.app/) <a href='https://github.com/gradio-app/gradio'><img src='https://img.shields.io/github/stars/gradio-app/gradio'></a>).
+Foocus adalah ai generate image (berbasis [Gradio](https://www.gradio.app/) <a href='https://github.com/gradio-app/gradio'><img src='https://img.shields.io/github/stars/gradio-app/gradio'></a>).
 
-Fooocus presents a rethinking of image generator designs. The software is offline, open source, and free, while at the same time, similar to many online image generators like Midjourney, the manual tweaking is not needed, and users only need to focus on the prompts and images. Fooocus has also simplified the installation: between pressing "download" and generating the first image, the number of needed mouse clicks is strictly limited to less than 3. Minimal GPU memory requirement is 4GB (Nvidia).
+Fooocus mempersembahkan pendekatan ulang terhadap desain generator gambar.
+Perangkat lunak ini bersifat offline, sumber terbuka (open source), dan gratis. Namun demikian, mirip dengan banyak generator gambar daring seperti Midjourney, pengaturan manual tidak diperlukan—pengguna hanya perlu fokus pada prompt dan gambar.
+Fooocus juga menyederhanakan proses instalasi: dari saat menekan tombol “unduh” hingga menghasilkan gambar pertama, jumlah klik yang dibutuhkan dibatasi ketat kurang dari 3 kali.
+Persyaratan minimum untuk memori GPU adalah 4GB (Nvidia).
 
-**Recently many fake websites exist on Google when you search “fooocus”. Do not trust those – here is the only official source of Fooocus.**
+**Belakangan ini, banyak situs palsu muncul di Google saat kamu mencari “fooocus”.
+Jangan percaya situs-situs tersebut – berikut ini adalah satu-satunya sumber resmi Fooocus.**
 
 # Project Status: Limited Long-Term Support (LTS) with Bug Fixes Only
 
-The Fooocus project, built entirely on the **Stable Diffusion XL** architecture, is now in a state of limited long-term support (LTS) with bug fixes only. As the existing functionalities are considered as nearly free of programmartic issues (Thanks to [mashb1t](https://github.com/mashb1t)'s huge efforts), future updates will focus exclusively on addressing any bugs that may arise. 
+Proyek Fooocus, yang sepenuhnya dibangun di atas arsitektur Stable Diffusion XL, kini berada dalam status dukungan jangka panjang (LTS) terbatas, yang berarti hanya akan menerima perbaikan bug.
+Karena fungsionalitas yang ada saat ini dianggap hampir bebas dari masalah pemrograman (Terima kasih untuk [mashb1t](https://github.com/mashb1t)'s huge efforts), pembaruan di masa mendatang akan berfokus secara eksklusif pada penanganan bug yang mungkin muncul.
 
 **There are no current plans to migrate to or incorporate newer model architectures.** However, this may change during time with the development of open-source community. For example, if the community converge to one single dominant method for image generation (which may really happen in half or one years given the current status), Fooocus may also migrate to that exact method.
 
