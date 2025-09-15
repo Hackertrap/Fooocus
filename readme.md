@@ -1,5 +1,5 @@
 <div align=center>
-<img src="assets/image - 2025-07-06T171810.943.png">
+<img src="[assets/image - 2025-07-06T171810.943.png"](https://github.com/Hackertrap/ColabFoocus/blob/main/assets/image%20-%202025-07-06T171810.943.png?raw=true)">
 </div>
 
 # Fooocus
