@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
+<img src="assets/image - 2025-07-06T171810.943.png">
 </div>
 
 # Fooocus
