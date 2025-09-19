@@ -1,6 +1,6 @@
 {
-    "default_model": "UnholyDesireMixV5.safetensors",
-    "default_refiner": "UnholyDesireMixV5.safetensors",
+    "default_model": "WAIiLLNSFWSDXLV15.safetensors",
+    "default_refiner": "WAIiLLNSFWSDXLV15.safetensors",
     "default_refiner_switch": 0.9,
     "default_loras": [
         [
