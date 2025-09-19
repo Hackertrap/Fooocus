@@ -37,9 +37,7 @@
     "default_prompt": "masterpiece,best quality,amazing quality, absurdres, highres,Smooth_Quality, cel shading, hard shadows, simple shading",
     "default_prompt_negative": "bad quality,worst quality,worst detail,sketch,censor,Smooth_Negative, Smooth_Negative-neg, gradient, soft shading,",
     "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
+        ""
     ],
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
