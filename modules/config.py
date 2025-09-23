@@ -943,11 +943,11 @@ def downloading_ip_adapters(v):
 
 def downloading_upscale_model():
     load_file_from_url(
-        url='https://huggingface.co/lllyasviel/misc/resolve/main/fooocus_upscaler_s409985e5.bin',
+        url='https://civitai.com/api/download/models/164821?type=Model&format=SafeTensor&token=6d5979eca3c585f9a91dcd83ded3f3a6',
         model_dir=path_upscale_models,
-        file_name='fooocus_upscaler_s409985e5.bin'
+        file_name='Remacri.safetensors'
     )
-    return os.path.join(path_upscale_models, 'fooocus_upscaler_s409985e5.bin')
+    return os.path.join(path_upscale_models, 'Remacri.safetensors')
 
 def downloading_safety_checker_model():
     load_file_from_url(
