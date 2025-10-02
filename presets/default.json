@@ -34,8 +34,8 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "masterpiece,best quality,amazing quality, absurdres, highres,Smooth_Quality, cel shading, hard shadows, simple shading, Anime key visual, ",
-    "default_prompt_negative": "bad quality,worst quality,worst detail,sketch,censor,Smooth_Negative, Smooth_Negative-neg, gradient, soft shading,",
+    "default_prompt": "score_9, score_8_up, score_7_up, dynamic view, solo, 1girl, masterpiece, best quality, bokeh, luminescent background, 8k, ultra quality, beautiful, ultra detailed, dynamic lighting, absurdres, very_detailed, extremely_detailed, ultra_detailed, anime screenshot, anime coloring, Anime key visual,Smooth_Quality, cel shading, hard shadows, simple shading, Anime key visual, ",
+    "default_prompt_negative": "bad quality,worst quality,worst detail,sketch,censor,Smooth_Negative, Smooth_Negative-neg, score_6, score_5, score_4, ruffles, frills, negative_hand, bad_pictures, futanari, extra fingers, distorted hands, distorted fingers, muscular, low quality, lowres, bad anatomy, undetailed eyes, worst quality, simple background, censored, text, signature, lineless, watermark, signature, logo, source_anime, low-quality, moir pattern, downsampling, aliasing, distorted, blurry, glossy, blur, jpeg artifacts, compression artifacts, poorly drawn, low-resolution, bad, distortion, twisted, excessive, exaggerated pose, exaggerated limbs, grainy, duplicate, error, pattern, beginner, pixelated, fake, hyper, glitch, overexposed, high-contrast, bad-contrast, black and white, NegfeetV2, Deformed, Deformed face, Deformed fingers, Deformed hands, Out of frame, Poorly drawn face, Poorly drawn feet, Poorly drawn hands, muscular female, Draft, Grainy, Kitsch, Low-res, old, doujinshi, exaggerated anatomy, milf, big lips, big nose, loli, child body, (large areola), pubes, at the audience,",
     "default_styles": [
         ""
     ],
