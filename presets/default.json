@@ -34,16 +34,19 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "score_9, score_8_up, score_7_up, solo, masterpiece, best quality, 8k, ultra quality, beautiful, ultra detailed, absurdres, very_detailed, extremely_detailed, ultra_detailed, anime coloring, Anime key visual,Smooth_Quality, cel shading, hard shadows, simple shading, Anime key visual, diffuse lighting, ultra-detailed, high resolution, Highly Visible, sharp focus, beautiful, perfect lighting, ",
+    "default_prompt": "Smooth_Quality, masterpiece, best quality, 8k, ultra quality, beautiful, ultra detailed, absurdres, very_detailed, extremely_detailed, ultra_detailed, anime coloring, Anime key visual,Smooth_Quality, cel shading, hard shadows, simple shading, Anime key visual, diffuse lighting, ultra-detailed, high resolution, Highly Visible, sharp focus, beautiful, perfect lighting, dynamic lighting, ",
     "default_prompt_negative": "bad quality,worst quality,worst detail,sketch,censor,Smooth_Negative, Smooth_Negative-neg, ",
     "default_styles": [
     ],
     "default_aspect_ratio": "1152*896",
-    "default_overwrite_step": 24,
+    "default_overwrite_step": 25,
     "checkpoint_downloads": {
         "WAIiLLNSFWSDXLV15.safetensors": "https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6d5979eca3c585f9a91dcd83ded3f3a6"
     },
-    "embeddings_downloads": {},
+    "embeddings_downloads": {
+        "SmoothPositiveIllus+.safetensors": "https://civitai.com/api/download/models/1470551?type=Model&format=SafeTensor&token=6d5979eca3c585f9a91dcd83ded3f3a6"
+        "SmoothNegativeIllus.safetensors": "https://civitai.com/api/download/models/1195487?type=Negative&format=Other&token=6d5979eca3c585f9a91dcd83ded3f3a6"
+    },
     "lora_downloads": {
         "HiuraMihate.safetensors": "https://civitai.com/api/download/models/1826280?type=Model&format=SafeTensor&token=6d5979eca3c585f9a91dcd83ded3f3a6"
     },
