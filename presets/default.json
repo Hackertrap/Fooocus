@@ -43,10 +43,7 @@
     "checkpoint_downloads": {
         "WAIiLLNSFWSDXLV15.safetensors": "https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6d5979eca3c585f9a91dcd83ded3f3a6"
     },
-    "embeddings_downloads": {
-        "SmoothPositiveIllus+.safetensors": "https://civitai.com/api/download/models/1470551?type=Model&format=SafeTensor&token=6d5979eca3c585f9a91dcd83ded3f3a6"
-        "SmoothNegativeIllus.safetensors": "https://civitai.com/api/download/models/1195487?type=Negative&format=Other&token=6d5979eca3c585f9a91dcd83ded3f3a6"
-    },
+    "embeddings_downloads": {},
     "lora_downloads": {
         "HiuraMihate.safetensors": "https://civitai.com/api/download/models/1826280?type=Model&format=SafeTensor&token=6d5979eca3c585f9a91dcd83ded3f3a6"
     },
